@@ -45,7 +45,7 @@ public class ReplaceElementsWithGreatestElementOnRightSide
         ReplaceElements(arr);
         for (int i = 0; i < arr.Length; i++)
         {
-            System.Console.Wri
+            System.Console.WriteLine(arr[i]);
         }
     }
 }
