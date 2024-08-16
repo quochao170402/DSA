@@ -1,3 +1,3 @@
 ﻿using DSA.DataStructures.Array;
-var validate = new ReplaceElementsWithGreatestElementOnRightSide();
+var validate = new HeightChecker();
 validate.Solution();
